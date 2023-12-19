@@ -1,0 +1,134 @@
+body{
+   background-color:#C2E5D3;
+}  
+nav{
+    height:40px;
+    width:100%;
+    background-color:rgb(0,0,0);
+ margin-top:-20px;
+ display:flex;
+ justify-content:end;
+ /* padding-left:10px; */
+ padding-top:20px;
+ position:fixed;
+ /* margin-bottom:400px; */
+}
+a{
+    padding:20px; 
+    color:white;  
+}
+main{
+    background-image: url("ipho.png"); 
+    background-position: center;
+    height:400px;
+    width:100%;
+    /* margin-left:1%; */
+    border-radius:10px;
+    /* margin-top:220px; */
+    background-size:cover;
+} 
+h2{
+    color:white;
+    padding-left:130px;
+}
+h1{
+    color:white;
+    padding-top:140px;
+    padding-left:130px;
+}
+.bt-all{
+    display:inline;
+    color:white;
+    margin-left:130px;
+    padding:3px;
+    border:1px solid white;  
+}
+.bt-brand{
+    display:inline;
+    color:white; 
+    padding:3px;
+    border:1px solid white; 
+    background-color:#e63946; 
+}
+.row1{
+    margin-left:12%;
+    margin-right:12%;
+    /* text-align:center; */
+    display:flex;
+}
+.catagory{
+    text-align:center; 
+    height:60px;
+    width:400px;
+    background-color:white;
+    margin:10px;
+}
+.cat-img{
+    height:60px;
+    width:190px;
+}
+.Trend{
+    text-align:center;
+    color:black;
+}
+.models{
+    width:100%;
+    height:590px;
+    background-color:#F8F8FF;
+    /* margin:3%; */
+    text-align:center;
+    padding-left:30px;
+}
+.mode{
+    width:230px;
+    height:250px;
+    border:1px solid grey;
+    border-radius:5px;
+    margin:20px;
+    background-color:white;
+    padding:5px;
+}
+.a{
+    width:160px; 
+    height:120px;
+}
+.row2{
+    display:flex;
+    /* text-align:center; */
+}
+.d-img{
+    text-align:center;
+}
+.b{
+    line-height:2px;
+    text-align:left;;
+
+}
+#a{
+    display:flex;
+    font-size:13px;
+}
+.c{
+    border:1px solid black;
+    border-radius:10px;
+    height:15px;
+   width:95px;
+  padding-top:8px;
+   margin-left:135px;
+   background-color:#e63946;
+
+}
+#d{
+
+}
+a{
+    font-size:13px; 
+}
+h4{
+    color:#9e2a2b;
+    font-family:Georgia;
+  
+}
+.price{
+    font-weight: bold;
+}
