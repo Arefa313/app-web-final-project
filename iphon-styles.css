@@ -1,0 +1,21 @@
+body{
+    background-color:#C2E5D3;
+    /* background-color:#36454F; */
+ }  
+ nav{
+     height:40px;
+     width:100%;
+     /* background-color:#2C3539; */
+     /* background-color:#36454F; */
+     background-color:rgba(0,0,0,0.8);
+     /* background-color:black; */
+  margin-top:-20px;
+  display:flex;
+  justify-content:end;
+  padding-top:20px;
+  position:fixed;
+ }
+ a{
+     padding:20px; 
+     color:white;  
+ }

@@ -142,10 +142,12 @@ a{
     height:80px;
     /* background-color:#36454F */
     background-color:rgba(0,0,0, 0.8);
-    text-align:center;
+    /* text-align:center; */
+    padding-left:40%;
 }
 #fott{
     font-size:20px;
     color:white;
+    text-align:center;
 
 }
