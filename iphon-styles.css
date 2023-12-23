@@ -45,13 +45,12 @@ body{
     width:60%;
     text-align:right;
     height:800px;
-    /* background-image: url("images/iphone4.png");  */
     background-size:cover;
     background-position:top;
  }
  .p-container{
     display:flex;
-    height:850px;
+    height:800px;
     width:100%;
     background-color:white;
     padding-top:5%;
