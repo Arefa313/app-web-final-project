@@ -1,5 +1,5 @@
 body{
-    background-color:#C2E5D3;
+    /* background-color:#C2E5D3; */
     /* background-color:#36454F; */
  }  
  nav{
@@ -14,8 +14,45 @@ body{
   justify-content:end;
   padding-top:20px;
   position:fixed;
+  margin-left:-5px;
  }
  a{
      padding:20px; 
      color:white;  
+ }
+ h1{
+    font-family:Copperplate;
+    padding-top:10px;
+    padding-bottom:40px;
+    font-size:39px;
+    text-align:center;
+ }
+ .container{
+    /* text-align:center;*/
+    padding-left:3%;
+    
+  } 
+ p{
+    font-size:18px;
+    font-family:Courier New;
+ }.list{
+    display:flex;
+ }
+ mark{
+    background-color:rgba(125, 66, 180,0.6);
+ }
+ .t-container{
+    width:60%;
+    text-align:right;
+    height:800px;
+    /* background-image: url("images/iphone4.png");  */
+    background-size:cover;
+    background-position:top;
+ }
+ .p-container{
+    display:flex;
+    height:800px;
+    width:100%;
+    background-color:white;
+    padding-top:5%;
  }
