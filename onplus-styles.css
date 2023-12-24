@@ -1,0 +1,72 @@
+body{
+    /* background-color:#C2E5D3; */
+    /* background-color:#36454F; */
+    background-color:#C2E5D3;
+ }  
+ nav{
+     height:40px;
+     width:100%;
+     /* background-color:#2C3539; */
+     /* background-color:#36454F; */
+     background-color:rgba(0,0,0,0.8);
+     /* background-color:black; */
+  margin-top:-20px;
+  display:flex;
+  justify-content:end;
+  padding-top:20px;
+  position:fixed;
+  margin-left:-5px;
+  margin-bottom:45px;
+ }
+ a{
+     padding:20px; 
+     color:white;  
+ }
+ #footer{
+    /* padding-top:10px; */
+    width:100%;
+    height:40px;
+    /* background-color:#36454F */
+    background-color:rgba(0,0,0, 0.8);
+    /* text-align:center; */
+    /* padding-left:40%; */
+}
+#fott{
+    font-size:20px;
+    color:white;
+    text-align:center;
+
+}
+.container{
+    height:300px;
+    width:100%;
+    background-image: url("images/onplus.png");
+    background-size:cover;
+    background-position:center;
+    padding-top:50px;
+}
+h1 , p{
+    color:white;
+    margin-left:3%;
+}
+#row{
+    display:flex;
+    margin-left:20%;
+    width:60%;
+    
+     }
+     .col1 , .col2{
+        /* float:left; */
+        /* display:flex; */
+        width:49%;
+        height:220px;
+        background-color:grey;
+        /* border:1px solid black; */
+     }
+     .m-img{
+        height:210px;
+        width:40%;
+     }
+     .row1{
+        display:flex;
+     }
