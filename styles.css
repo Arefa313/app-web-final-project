@@ -5,19 +5,24 @@ body{
 nav{
     height:40px;
     width:100%;
-    /* background-color:#2C3539; */
     /* background-color:#36454F; */
-    background-color:rgba(0,0,0,0.8);
-    /* background-color:black; */
+    background-color:rgb(86, 86, 96 );
  margin-top:-20px;
  display:flex;
  justify-content:end;
- padding-top:20px;
+ padding-top:25px;
  position:fixed;
 }
-a{
-    padding:20px; 
+.n-link{
+    padding:5px 15px; 
     color:white;  
+    border-radius:10px;
+    margin-right:18px;
+}
+.n-link:hover{
+    padding:5px 25px; 
+width:30px;  
+border:1px solid white;
 }
 main{
     background-image: url("images/ipho.png"); 
@@ -74,80 +79,76 @@ h1{
     width:100%;
     height:590px;
     text-align:center;
-    display:flex;
 }
 .text{
-    /* display:flex;
-     */
-     width:500px;
+ 
 }
 p{
     display:flex;
 }
 .mode{
-    width:85%;
-    height:210px;
+    width:250px;
+    height:220px;
     border:1px solid grey;
     border-radius:5px;
     margin:20px;
     background-color:white;
     padding:1%;
-    /* display:flex; */
 }
-.a{
-    width:100%; 
-    height:100px;
+.h-img{
+    width:90%; 
+    height:110px;
+    margin-bottom:10px;
 }
 .row2{
-    /* display:flex; */
-    margin-left:1%;
+    margin-left:2%;
+    height:600px:
+    width:40%;
 }
 .r-text{
     display:flex;
-  
+    margin-left:20%;
 }
 .text{
-    margin-left:5%;
-    margin-right:8%;
+    margin-left:13%;
+    margin-right:12%;
     font-size:17px;
     line-height:25px;
+    background-color:white;
+    padding:5px;
 }
 .b{
-    line-height:2px;
+  
     text-align:center;
 
+}
+.d{
+    color:white;
+    border:1px solid black;
+    border-radius:10px;
+  padding:5px 40px;
+   background-color:#e63946;
+margin-top:10px;
+}
+.d:hover{
+    background-color:lightblue;
+    color:black;
 }
 #a{
     display:flex;
     font-size:13px;
 }
-.c{
-    border:1px solid black;
-    border-radius:10px;
-    height:15px;
-   width:65%;
-  padding-top:8px;
-   /* margin-left:30px; */
-   background-color:#e63946;
-/* margin-left:20%; */
-margin-top:10px;
-}
 a{
     font-size:13px; 
-    /* text-align:center; */
 }
 #footer{
-    /* padding-top:10px; */
     width:100%;
     height:40px;
-    /* background-color:#36454F */
-    background-color:rgba(0,0,0, 0.8);
-    /*  */
+    background-color:rgb(86, 86, 96 );
    
 }
 #fott{
     font-size:20px;
     color:white;
-    /* text-align:center; */
     padding-left:44%;
 }

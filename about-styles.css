@@ -1,15 +1,11 @@
 body{
     background-color:#C2E5D3;
-    /* background-color:#36454F; */
     text-align:center;
  }  
  nav{
      height:40px;
      width:100%;
-     /* background-color:#2C3539; */
-     /* background-color:#36454F; */
-     background-color:rgba(0,0,0,0.8);
-     /* background-color:black; */
+     background-color:rgb(86, 86, 96 );
   margin-top:-20px;
   display:flex;
   justify-content:end;
@@ -21,11 +17,21 @@ body{
      padding:20px; 
      color:white;  
  }
+ .n-link{
+    padding:5px 15px; 
+    color:white;  
+    border-radius:10px;
+    margin-right:18px;
+}
+.n-link:hover{
+    padding:5px 25px; 
+width:30px;  
+border:1px solid white;
+}
 
 .child1{
     width:40%;
     height:757px;
-/* background-color:#C2E5D3; */
 background-color:rgba(93, 109, 126,0.8 )
 }
 .child2{
@@ -61,8 +67,6 @@ h2{
 }
 hr{
     width:60px;
-    /* height:3px; */
-    /* background-color:white; */
 }
 h3{
     font-size:24px;
