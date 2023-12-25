@@ -152,3 +152,13 @@ a{
     color:white;
     padding-left:44%;
 }
+#confirm-f{
+    width:30%;
+    text-align:center;
+    color:black;
+    background-color:rgb(80, 96, 100 );
+    margin:10% 30%;
+    padding:60px;
+    border:1px solid grey;
+    border-radius:20px;
+}

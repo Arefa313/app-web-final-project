@@ -38,27 +38,23 @@ background-color:rgba(93, 109, 126,0.8 )
     width:60%;
     height:757px;
     background-color:white;
-    /* background-size:cover; */
 }
 .parent{
     display:flex;
     display:fixed;
-    /* position:relative; */
 }
 .p-child{
     width:350px;
     height:450px;
-    /* background-color:#DAE5EE; */
     background-color:rgb(220, 220,225);
     margin-top:9%;
      margin-left:-76%; 
-
+border-radius:10px;
 }
 img{
     border-radius:50%;
     margin-top:30px;
     border:7px solid lightgreen;
-    /* border:2px solid red; */
 }
 h2{
     font-size:30px;
@@ -80,7 +76,8 @@ h1{
     font-size:30px;
 }
 #bt{
-    background-color:blue;
+    background-color:lightgreen;
+    border-radius:10px;
     border:1px solid lightblue;
 }
 button{
@@ -88,7 +85,7 @@ button{
     height:30px;
     border-radius:12px;
     border:1px solid grey;
-} 
+}
 .detail{
 background-color:white;
 width:400px;
