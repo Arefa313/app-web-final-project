@@ -39,6 +39,10 @@ border:1px solid white;
    text-align:center;
 
 }
+#samsu-img{
+   height:500px;
+   width:500px;
+}
 h1{
    font-family:Copperplate;
    padding-top:10px;

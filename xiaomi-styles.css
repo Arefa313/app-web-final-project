@@ -38,6 +38,10 @@ border:1px solid white;
    color:white;
    text-align:center;
 }
+.xia-img{
+   height:120px; 
+   width:94%;
+}
  h1{
     font-family:Copperplate;
     padding-top:10px;
@@ -71,6 +75,8 @@ margin-top:-10px;
 }
 #x-img{
    border-radius:39px;
+   height:450px;
+    width:35%;
 }
 i{
     color:green;
