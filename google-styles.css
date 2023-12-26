@@ -68,7 +68,7 @@ border:1px solid white;
  }
  p{
     line-height:19px;
-    padding-top:-25px;
+    /* padding-top:-25px; */
  }
  .p-google{
 color:grey;
@@ -95,17 +95,14 @@ i{
     height:500px;
     width:100%;
     background-color:#C2E5D3;
-    /* background-color:rgba(93, 109, 126,0.8 ); */
-    /* background-color:#F7E8F5  ; */
-    /* background-color:#C2E5D3; */
+ 
     padding-top:4%;
-    /* padding-right:9%; */
+   
 
  }
  #main{
     width:90%;
     height:500px;
-    /* border:1px solid grey; */
     margin-left:10%;
     margin-right:10%;
     text-align:center;
@@ -120,11 +117,8 @@ display:flex;
     height:450px;
     background-color:white;
     /* border:1px solid black; */
-  } */
- .m-img{
-    height:110px;
-    width:90px;
- } 
+  } 
+
  .row1{
     width:20%;
     height:200px;

@@ -41,7 +41,7 @@ background-color:rgba(93, 109, 126,0.8 )
 }
 .parent{
     display:flex;
-    display:fixed;
+    /* display:fixed; */
 }
 .p-child{
     width:350px;
